@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
+**Thank you for visiting the Lebit team's GitHub code repository homepage:**
 
-**Here are some ideas to get you started:**
+**🙋‍♀️ A short introduction**  
+The Lebit was focused on the implementation of technical products in cutting-edge fields, particularly those related to Web3 infrastructure, DeFi (Decentralised Finance), and DApps (Decentralised Applications)..  <br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**🌈 Contribution guidelines**  
+There are currently no contributing projects. If we have any more information, we will update here.  <br/>
+
+**👩‍💻 Useful resources**  
+You can reach out to our [official website](https://lebit.ai)  <br/>
+
+**🍿 Fun facts - what does your team eat for breakfast?**  
+Ah..., Normally, Coffee and cake.
